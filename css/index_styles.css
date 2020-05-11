@@ -38,7 +38,7 @@ body {
 .accent {
     color: var(--accent-color);
 }
-.list {
+.item {
     list-style: none;
 }
 .link {
